@@ -1,6 +1,6 @@
 # Landon Droubay
 
-*[C++](/C)
-*[MATLAB](/MATLAB)
-*[Python](/Python)
-*[ANSYS](/ANSYS)
+* [C++](/C)
+* [MATLAB](/MATLAB)
+* [Python](/Python)
+* [ANSYS](/ANSYS)
