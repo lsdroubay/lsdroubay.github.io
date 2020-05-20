@@ -6,4 +6,3 @@ is a small sample of some of the projets and programs I have worked on in variou
 * [C++](/C)
 * [MATLAB](/MATLAB)
 * [Python](/Python)
-* [ANSYS](/ANSYS)
